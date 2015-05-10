@@ -4,13 +4,13 @@ from setuptools import setup
 
 setup(
     # GETTING-STARTED: set your app name:
-    name='YourAppName',
+    name='themenu',
     # GETTING-STARTED: set your app version:
     version='1.0',
     # GETTING-STARTED: set your app description:
-    description='OpenShift App',
+    description='The Menu!',
     # GETTING-STARTED: set author name (your name):
-    author='Your Name',
+    author='Mevin Babu',
     # GETTING-STARTED: set author email (your email):
     author_email='example@example.com',
     # GETTING-STARTED: set author url (your url):
